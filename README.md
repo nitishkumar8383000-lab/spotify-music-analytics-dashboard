@@ -265,7 +265,7 @@ It provides a complete view of songs, artists, albums, popularity, release patte
 Nitish Kumar
 
 B.Tech CSE Student | Data Analytics & Power BI Enthusiast
-
+--- 
 ⭐ If you like this project
 
 Give the repository a ⭐ and feel free to explore the dashboard!
