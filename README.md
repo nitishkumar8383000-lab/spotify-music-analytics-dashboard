@@ -240,7 +240,7 @@ spotify-music-analytics-dashboard
 * Explore the dashboard using the navigation buttons.
 * Use the interactive visuals and filters to analyze the data.
 
-#💡 Skills Demonstrated
+# 💡 Skills Demonstrated
 * Data Analysis
 * Data Cleaning
 * Data Transformation
