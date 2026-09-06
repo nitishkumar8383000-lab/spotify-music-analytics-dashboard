@@ -220,7 +220,7 @@ The design focuses on creating a modern and user-friendly music analytics experi
 
 # 📁 Repository Structure
 
-```text
+text
 spotify-music-analytics-dashboard/
 │
 ├── Backgrounds/
