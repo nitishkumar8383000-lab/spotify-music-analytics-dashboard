@@ -233,26 +233,26 @@ spotify-music-analytics-dashboard
 * └── <a href="https://github.com/nitishkumar8383000-lab/spotify-music-analytics-dashboard/edit/main/README.md">README.md
 
 # 🚀 How to Use
-Download or clone the repository.
-Open the Power BI project.
-Load the provided Spotify dataset.
-Refresh the data if required.
-Explore the dashboard using the navigation buttons.
-Use the interactive visuals and filters to analyze the data.
+* Download or clone the repository.
+* Open the Power BI project.
+* Load the provided Spotify dataset.
+* Refresh the data if required.
+* Explore the dashboard using the navigation buttons.
+* Use the interactive visuals and filters to analyze the data.
 
 #💡 Skills Demonstrated
-Data Analysis
-Data Cleaning
-Data Transformation
-Power BI
-DAX
-Power Query
-Data Modeling
-Data Visualization
-Dashboard Design
-KPI Development
-Business Intelligence
-Interactive Reporting
+* Data Analysis
+* Data Cleaning
+* Data Transformation
+* Power BI
+* DAX
+* Power Query
+* Data Modeling
+* Data Visualization
+* Dashboard Design
+* KPI Development
+* Business Intelligence
+* Interactive Reporting
 
 # 📈 Project Outcome
 
