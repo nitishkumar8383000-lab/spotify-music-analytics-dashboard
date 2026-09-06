@@ -220,15 +220,14 @@ The design focuses on creating a modern and user-friendly music analytics experi
 
 # 📁 Repository Structure
 
-text
-spotify-music-analytics-dashboard/
-│
-├── Backgrounds/
-├── Icons/
-├── spotify-top-50-world.csv
-├── Screenshot 2026-09-04 183949.png
-├── Screenshot 2026-09-04 184029.png
-├── Screenshot 2026-09-04 184038.png
-├── Screenshot 2026-09-04 184047.png
-├── Bussiness Requirements.docx
-└── README.md
+spotify-music-analytics-dashboard
+
+├── <a href="https://github.com/nitishkumar8383000-lab/spotify-music-analytics-dashboard/commit/7bfef9d5eea9bcf195c78cdb1f0872043e369337">Backgrounds
+├── <a href="https://github.com/nitishkumar8383000-lab/spotify-music-analytics-dashboard/commit/47f41329e4a6d69725a8606fdb10234788735a7e">Icons
+├── <a href="https://github.com/nitishkumar8383000-lab/spotify-music-analytics-dashboard/commit/f9d19d17a79c353a5c50042bddf4d31524158eff">spotify-top-50-world.csv
+├── <a href="https://github.com/nitishkumar8383000-lab/spotify-music-analytics-dashboard/commit/89bfc2ba53d3d8925437326fae5dcc6a01bc7e0d">Screenshot 2026-09-04 183949.png
+├── <a href="https://github.com/nitishkumar8383000-lab/spotify-music-analytics-dashboard/commit/64ba960cfe1f3e79a1e469dead0c7b36191f90b8">Screenshot 2026-09-04 184029.png
+├── <a href="https://github.com/nitishkumar8383000-lab/spotify-music-analytics-dashboard/commit/28ab90e7af22b939a535c414020baffd8a13e96a">Screenshot 2026-09-04 184038.png
+├── <a href="https://github.com/nitishkumar8383000-lab/spotify-music-analytics-dashboard/commit/08d466a5ea78dc34c4a857892e8681c421197866">Screenshot 2026-09-04 184047.png
+├── <a href="https://github.com/nitishkumar8383000-lab/spotify-music-analytics-dashboard/commit/364592251d4113103abd620254104803087dac2b">Bussiness Requirements.docx
+└── <a href="https://github.com/nitishkumar8383000-lab/spotify-music-analytics-dashboard/edit/main/README.md">README.md
